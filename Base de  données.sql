@@ -417,7 +417,7 @@ INSERT INTO `reports` (`id`, `user_id`, `nom`, `email`, `departement`, `problem`
 (9, 4, 'test', 'test@gmail.com', 'ytttttt', 'tjtj', 'faible', 'jdtttttttttttttttj', '2023-04-05 15:24:29', '2023-04-05 15:24:29', 'En attente'),
 (10, 4, 'test', 'test@gmail.com', 'mlkkk', 'lpkkkk', 'moyen', 'mùù', '2023-04-05 15:25:03', '2023-04-05 15:25:03', 'En attente'),
 (11, 4, 'test', 'test@gmail.com', 'dqsdqsd', 'dqsdsq', 'moyen', 'ouihoiug', '2023-04-05 16:48:51', '2023-04-05 16:48:51', 'En attente'),
-(12, 7, 'oussama mejjati', 'oussama.mejjati@gmail.com', 'fbar', 'zaml', 'élevé', 'fise3 azbi !', '2023-04-05 17:29:39', '2023-04-05 17:29:39', 'En attente'),
+(12, 7, 'oussama mejjati', 'oussama.mejjati@gmail.com', 'test', 'test', 'élevé', 'test!', '2023-04-05 17:29:39', '2023-04-05 17:29:39', 'En attente'),
 (13, 22, 'issam', 'issam@gmail', 'duvkbglsdujb', 'lmidusfsliudb', 'moyen', 'dfsfdgdwfhg', '2023-04-05 21:47:38', '2023-04-05 21:47:38', 'En attente'),
 (14, 22, 'issam', 'issam@gmail', 'jhkj', 'hjghcjgcj', 'moyen', 'hgjcgjcgj', '2023-04-05 21:51:14', '2023-04-05 21:51:14', 'En attente'),
 (15, 25, 'issam', 'issam@gmail', 'cccccccccccccccc', 'cccccccccccccc', 'moyen', 'chhhhhhhhhjg', '2023-04-05 21:52:42', '2023-04-05 21:52:42', 'En attente'),
